@@ -1,0 +1,6 @@
+data/
+tables/
+results/
+.ipynb_checkpoints/
+.venv/
+.env
